@@ -1,1 +1,0 @@
-# image_classifier_for_My_training
