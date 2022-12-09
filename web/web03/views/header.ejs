@@ -1,1 +1,10 @@
-<header><div><p>w</p></div></header>
+<header>
+    <nav>
+        <% if (role) { %>
+            <p style="float: right;"><a href="/logout">Logout</a></p>
+            <p style="float: right;">
+                <%= role %> : <%= name %>
+            </p>
+            <% } %>
+    </nav>
+</header>

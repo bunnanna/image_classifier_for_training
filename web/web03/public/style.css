@@ -23,15 +23,16 @@ footer{
 }
 body{ min-height: 100vh; margin:0; }
 
-header{ min-height:50px; }
+header{ min-height:50px;}
 footer{ min-height:50px; }
+
 
 /* The article fills all the space between header & footer */
 body{ display:flex; flex-direction:column; }
 article{ flex:1; }
 
 .bbgf{
-    background-color: rgb(76, 55, 214);
+    background-color: rgb(234, 239, 188);
 }
 .mato{
     margin: top 50%;;
@@ -52,4 +53,7 @@ article{ flex:1; }
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%) 
+}
+nav p{
+    margin: 10px;
 }
