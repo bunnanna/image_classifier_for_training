@@ -1,11 +1,2 @@
-objectdetect.ipynb
-piramidslide.py
-yolo.ipynb
-node*
-*.png
-*.jpg
-*.ico
-tomato*
-xmas
-temp
-Christmas-Padoru
+static/*
+temp.*
