@@ -4,6 +4,5 @@ there are 2 model
 1. chihuahua-muffin-classifier
 2. dog-cat-classifier
 # Run
-'''
-python app.py
-'''
+
+```python app.py```
